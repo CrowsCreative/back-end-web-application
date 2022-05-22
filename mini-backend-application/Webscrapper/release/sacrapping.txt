@@ -1,0 +1,56 @@
+=======================================================================================
+create a home page ☑
+create a scraping loading animation ☑ 
+create a setup page before scraping process ☑ 
+web scrapping ☑ 
+create a json/(XML) file ☑ 
+create a server that route into right places ☑
+create a REST API for the application ☑
+create a scraping result ☑
+create a fetching result ☑
+create a nice user interface for the application ☑
+=======================================================================================
+1.0.0 create a fully functional scraping application ☑ 
+1.0.1 create a node server +  animation for scraping process ☑ 
+1.0.2 - 
+      -> fix the animation (scrap the number of page first) ☑ 
+      -> fix the progress (when file loads to save, progress 100%) ☑ 
+      -> handling errors functionality ☑ 
+1.0.3 - 
+      -> install bodyParser to parse data ☑ 
+      -> create a developer rest API ☑
+      -> post a rest API for developers depends on the number of items he asked for ☑
+      -> create an animation while creating the rest API ☑
+      -> create a home page ☑
+      -> create a result page ☑  
+
+1.0.4 -
+      -> create the error page ☑
+      -> create a responsive web page ☑
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
