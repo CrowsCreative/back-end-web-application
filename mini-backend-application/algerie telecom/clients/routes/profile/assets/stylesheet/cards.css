@@ -1,0 +1,94 @@
+.card-500
+{
+    
+    box-sizing:content-box !important; 
+    border-left:rgb(1, 207, 28) 15px solid !important;
+}
+
+
+.card-1000
+{
+
+    box-sizing:content-box !important; 
+    border-left:rgb(231, 0, 231) 15px solid !important;
+
+}
+
+
+.card-2000
+{
+    box-sizing:content-box !important; 
+    border-left:rgb(24, 105, 255) 15px solid !important;
+
+}
+
+
+.card-3000
+{
+    box-sizing:content-box !important; 
+    border-left:rgb(134, 12, 134) 15px solid !important;
+}
+
+.scratch-card {
+    width: 25em;
+    padding: 25px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 3px rgba(0, 0, 0, 0.3);
+  }
+  
+
+  .scratch-container {
+    overflow: hidden;
+    position: relative;
+    width: 25em;
+    height: 60px;
+    margin: 0 auto 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .scratch-canvas {
+    position: absolute;
+    top: 0;
+    z-index: 10;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    cursor: grab;
+    cursor: -webkit-grab;
+  }
+  
+  .code {
+    position: relative;
+    visibility: hidden;
+    margin: 0 auto;
+    text-align: center;
+    color: #ececec;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-left: 1.3em;
+    font-family: Degital, monospace;
+    font-size: 2em;
+    user-select: none;
+  }
+
+  .fade-out {
+    -webkit-animation: fade-out 0.8s;
+    -webkit-animation-fill-mode: forwards;
+  }
+  
+  @keyframes fade-out {
+    0% {
+      opacity: 1;
+    }
+    
+    100% {
+      opacity: 0;
+    }
+  }
+
+  
