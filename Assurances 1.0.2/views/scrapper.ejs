@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Assurance - Scraping data</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=Cinzel:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/stylesheet/style.css">
+  
+</head>
+<body>
+<div class="bot-ui">
+  <div class="cubes">
+
+  </div>
+  <div class="bot-head">
+    <div class="eyes-container">
+      <div class="to-left eye"></div>
+      <div class="to-right eye"></div>
+    </div>
+  </div>
+  <div class="bot-body">
+    <div class="analyzer"></div>
+  </div>
+</div>
+<center><h2 class="print" style="position: relative; display: flex; justify-content: center; align-items: center; height: 80vh;">Scraping data progress ...</h2></center>
+<div class="progress-bar">
+  <span class="bar">
+    <span class="progress"></span>
+  </span>
+</div>
+<center>
+  
+    <button class="hide">access data</button>
+    <!-- <button class="hide" id="error">Network Error</button> -->
+    <form action="/scrapper/error" method="GET" class="hide">
+        <button id="error" class="hide">submit</button>
+    </form>
+</center>
+<!-- partial -->
+<script src="/script/script.js"></script>
+</body>
+</html>
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script
+  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  crossorigin="anonymous"></script>
+    <title>Assurance - Scraping data</title>
+</head>
+<body>
+  
+</body>
+
+<div class="logs"></div> -->
+
+<!-- <script async defer>
+    setInterval(()=>
+    {
+        const fetched = fetch('http://localhost:10000/scrapper')
+                        .then(response => response.json())
+                        .then(data => console.log(data));
+    }, 5000)
+</script> -->
+<!-- <script>
+setInterval(async ()=>
+    {
+ 
+        const fetched = await fetch('http://localhost:10000/scrapper/json', {method: 'GET'});
+        const data = await fetched.json();
+        document.querySelector('.logs').innerHTML += `<p>progress: ${data.p}</p>`
+    }, 10000);
+</script> -->
+<!-- </html> -->
