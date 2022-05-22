@@ -1,0 +1,100 @@
+[
+    {
+        "name": "SAA - Société Nationale D'assurance",
+        "website": "http://www.saa.dz/",
+        "information": {
+            "address": "VMJM+XFW, Tlemcen",
+            "phone": "043 41 44 71"
+        },
+        "direction": "https://www.google.com/maps/dir//VMJM%2BXFW+SAA+-+Soci%C3%A9t%C3%A9+Nationale+D'assurance,+Tlemcen/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd78c9b98ee0ca39:0x8b3a8b7aee92401d?sa=X&hl=en",
+        "id": 0
+    },
+    {
+        "name": "MAATEC assurance Tlemcen 406",
+        "website": false,
+        "information": {
+            "address": "Cité ibn sina N°02 imama mansourah, Tlemcen 13000",
+            "phone": "0770 28 47 62"
+        },
+        "direction": "https://www.google.com/maps/dir//MAATEC+assurance+Tlemcen+406,+Cit%C3%A9+ibn+sina+N%C2%B002+imama+mansourah,+Tlemcen+13000/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd78c9fac07550cb:0x17c89ea2a96514a6?sa=X&hl=en",
+        "id": 1
+    },
+    {
+        "name": "Buro De HBIB",
+        "website": false,
+        "information": {
+            "address": "VMQ8+5W3, Mansourah"
+        },
+        "direction": "https://www.google.com/maps/dir//VMQ8%2B5W3+Buro+De+HBIB,+Mansourah/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd78c84e072a919b:0xa0c0c87883f3f50d?sa=X&hl=en",
+        "id": 2
+    },
+    {
+        "name": "الكيفان تلمسان",
+        "website": false,
+        "information": {
+            "address": "WM5H+P96، الكيفان"
+        },
+        "direction": "https://www.google.com/maps/dir//WM5H%2BP96+%D8%A7%D9%84%D9%83%D9%8A%D9%81%D8%A7%D9%86+%D8%AA%D9%84%D9%85%D8%B3%D8%A7%D9%86%D8%8C+%D8%A7%D9%84%D9%83%D9%8A%D9%81%D8%A7%D9%86%E2%80%AD/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd78c9cfa7353539:0x836d36489761b9a4?sa=X&hl=en",
+        "id": 3
+    },
+    {
+        "name": "Assurance 2a KAHOUADJI",
+        "website": false,
+        "information": {
+            "address": "VMQC+J6G, Tlemcen",
+            "phone": "043 26 76 97"
+        },
+        "direction": "https://www.google.com/maps/dir//VMQC%2BJ6G+Assurance+2a+KAHOUADJI,+Tlemcen/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd78c852903d19bb:0x9c546164110dec76?sa=X&hl=en",
+        "id": 4
+    },
+    {
+        "name": "Assurance MAATEC",
+        "website": false,
+        "information": {
+            "address": "Bd Chouiref Salah, Aïn Témouchent",
+            "phone": "0667 91 55 03"
+        },
+        "direction": "https://www.google.com/maps/dir//Assurance+MAATEC,+Bd+Chouiref+Salah,+A%C3%AFn+T%C3%A9mouchent/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd7ed4042b5234d9:0xd11337a28897d54?sa=X&hl=en",
+        "id": 5
+    },
+    {
+        "name": "Saa Agence El Kiffane - 2513",
+        "website": "http://www.saa.dz/",
+        "information": {
+            "address": "VMPF+P2M, Tlemcen",
+            "phone": "043 20 83 34"
+        },
+        "direction": "https://www.google.com/maps/dir//VMPF%2BP2M+Saa+Agence+El+Kiffane+-+2513,+Tlemcen/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd78c9b2ca421551:0x417216faf7ae3977?sa=X&hl=en",
+        "id": 6
+    },
+    {
+        "name": "Allianz",
+        "website": "https://www.allianz.ma/",
+        "information": {
+            "address": "Bd Omar Ibn Al Khattab, Oujda, Morocco",
+            "phone": "+212 5365-11601"
+        },
+        "direction": "https://www.google.com/maps/dir//Allianz,+Bd+Omar+Ibn+Al+Khattab,+Oujda,+Morocco/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd787d1af5613661:0x909bb03ab85d8a9b?sa=X&hl=en",
+        "id": 7
+    },
+    {
+        "name": "SAHAM Assurance - El Aioun Assurances Et Conseils",
+        "website": "https://agences.sahamassurance.ma/fr/maroc-MA/60596/el-aioun-assurances-et-conseils/details",
+        "information": {
+            "address": "Angle Boulevard Bir Anzarane et rue 21 - n° 2 - El Aioun Sidi Mellouk Al Ayoune, Oujda, Morocco",
+            "phone": "+212 5366-70736"
+        },
+        "direction": "https://www.google.com/maps/dir//SAHAM+Assurance+-+El+Aioun+Assurances+Et+Conseils,+Angle+Boulevard+Bir+Anzarane+et+rue+21+-+n%C2%B0+2+-+El+Aioun+Sidi+Mellouk+Al+Ayoune,+Oujda,+Morocco/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd786546ae2d0ad9:0x326afd8fa79ce154?sa=X&hl=en",
+        "id": 8
+    },
+    {
+        "name": "SAHAM Assurance - Assurance Kharmach",
+        "website": "https://agences.sahamassurance.ma/fr/maroc-MA/60633/assurance-kharmach/details",
+        "information": {
+            "address": "2 Rue B 14 Hay Jouhara Lot 449, Oujda 60000, Morocco",
+            "phone": "+212 5365-13131"
+        },
+        "direction": "https://www.google.com/maps/dir//SAHAM+Assurance+-+Assurance+Kharmach,+2+Rue+B+14+Hay+Jouhara+Lot+449,+Oujda+60000,+Morocco/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xda045481f9ce79b:0x80f0bc8142867954?sa=X&hl=en",
+        "id": 9
+    }
+]
