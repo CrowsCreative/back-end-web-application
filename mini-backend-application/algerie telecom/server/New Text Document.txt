@@ -1,0 +1,4 @@
+- connection server
+- seesion authentication
+- account authorizations
+- connection databases
