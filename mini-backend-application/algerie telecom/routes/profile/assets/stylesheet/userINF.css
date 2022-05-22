@@ -1,0 +1,44 @@
+.ml-lg-5
+{
+    margin-left: 5em !important;
+}
+
+.profile-pic
+{
+    width: 11rem; border-radius: 50%; z-index: 1; position: relative; left:32%;
+    top: 25px;
+    z-index: 3;
+   
+}
+
+.profile-header
+{
+    position: relative;
+    right: 0;
+    top: 11px;
+    z-index: 2;
+    
+}
+
+@media (min-width: 768px) 
+{ 
+
+
+    .profile-pic
+    {
+        width: 11rem; border-radius: 50%; z-index: 1; position: relative; left:110px;
+        z-index: 3;
+        top: 0px;
+        ;
+    }
+    
+    .profile-header
+    {
+        position: relative; right:110px;
+        z-index: 2;
+        top: 0px;
+        text-align: unset;
+    }
+
+    
+}
